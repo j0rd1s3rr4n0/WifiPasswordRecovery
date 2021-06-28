@@ -1,0 +1,75 @@
++--------------------------------------------------------------------------------+--------------------+
+|                                 [ Wifi Password Recover  ]                     |   _  |  []  |  X   |
++--------------------------------------------------------------------------------+--------------------+
+|                                                                                                     |
+|                                                                                                     |
+|                            __            __  ______     ______                                      |
+|                            \ \          / / |   __ \   |  __  \                                     |
+|                             \ \        / /  |  |  \ \  | |  \  \                                    |
+|                              \ \  /\  / /   |  |__/ /  | |__/  /                                    |
+|                               \ \/  \/ /    |  ____/   |  __  /                                     |
+|                                \  /\  /     | |        | |  \ \                                     |
+|                                 \/  \/IFI   |_|ASSWORD |_|   \_\ECOVER                              |
+|                                                                                                     |
+|                                 By Jk4fr33d0m , Jk, Jeut2 & Bluegraded                              |
+|                                                                                                     |
+|                                        jk4fr33d0m@protonmail.ch                                     |
+|                                                                                                     |
+|                                                                                                     |
+|                                                                                                     |
+|                                                                                                     |
+|                                                                                                     |
++-----------------------------------------------------------------------------------------------------+
+
+"""
+	Please Choose Any Option:
+	
+	   1) Read Terms & Conditions
+	   2) Start To Obtain Wifi Passwords
+	   3) Credits
+	   4) VirusTotal Scan
+	   5) Banner
+	   6) Exit
+"""
+1) Read it Terms & Conditions
+
+2) Start Process To Obtain Wifi Passwords, Needed Accept Terms & Conditions.
+	"""
+	Accept Terms & Conditions To Proced To Use This Program...
+  	1) ACCEPT
+  	2) DECLINE
+	"""
+	2.1) Accept Terms & Conditions.
+		"""
+		Wi-Fi Profiles Interface:
+
+		User Profiles
+		---------------------
+			Profile Of All Users   : Test1
+			Profile Of All Users   : MyWifi129
+			Profile Of All Users   : MyWifi257
+			Profile Of All Users   : MyWifi235
+			Profile Of All Users   : MyWifi123
+		---------------------	
+		"""
+	2.2) Write the NameOfWifi (SSID), example: "Test1"
+	2.3) View Security Config > Key
+		"""
+
+		Security COnfiguration
+		---------------------------
+		Autentification   : WPA-Personal
+		Cifrate           : CCMP
+		Security Key      : Present
+		Key Content       : PasswordTest1
+
+		"""
+
+3) Show Credits.
+
+4) Open VirusTotal url ( Show If Is Virus Or Not, 1-10 False Positive)
+
+5) Show Banner
+
+6) Exit ( Close App )
+ 
